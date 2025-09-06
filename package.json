@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Akhilkumar5643/ecommerce",
+  "homepage": "https://Akhilkumar5643.github.io/ecommerce",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
